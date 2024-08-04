@@ -12,3 +12,4 @@ git remote add origin https://github.com/Bharat2044/vscode-clone.git
 ![image1](./live%20link%20images/1.png)
 ![image2](./live%20link%20images/2.png)
 ![image3](./live%20link%20images/3.png)
+![image4](./live%20link%20images/4.png)
