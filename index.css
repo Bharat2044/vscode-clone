@@ -354,3 +354,39 @@ a {
   background: linear-gradient(to top right, #0e0e0e 10%, #323232 100%);
   text-align: center;
 }
+
+/* footer styleing */
+footer {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+footer .leftFooter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+
+footer .leftFooter span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+footer .leftFooter span a {
+  text-decoration: none;
+  color: #9BA3B4;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+footer .leftFooter span a i, footer .rightFooter {
+  font-size: 25px;
+  color: #9BA3B4;
+}
