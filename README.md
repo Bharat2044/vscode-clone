@@ -1,7 +1,7 @@
-# Visual Studio(VS) Code Clone
+# Visual Studio(VS) Code Clone 🚀
 
-## Clone the Repository
-Write this command in your terminal
+## 👨‍💻 Clone the Repository 🔥
+Write the following command in your terminal to clone this repository 
 
 ```sh
 git remote add origin https://github.com/Bharat2044/vscode-clone.git
